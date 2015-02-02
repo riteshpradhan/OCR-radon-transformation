@@ -1,0 +1,9 @@
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\MainWindow.baml
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\MainWindow.g.cs
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\App.g.cs
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\ImageSearch_MarkupCompile.cache
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\ImageSearch.g.resources
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\ImageSearch.Properties.Resources.resources
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\padae_sadae\final_year_project\image\imagesearch_2010\ImageSearch\Backup\ImageSearch\obj\x86\Debug\GenerateResource.write.1.tlog

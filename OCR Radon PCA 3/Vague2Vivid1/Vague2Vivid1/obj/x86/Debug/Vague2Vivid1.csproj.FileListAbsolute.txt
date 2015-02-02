@@ -1,0 +1,86 @@
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+c:\users\asus\documents\visual studio 2010\Projects\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\padae_sadae\final_year_project\project\Vague2Vivid1\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\padae_sadae\final_year_project\project\Vague2Vivid2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ASUS\Desktop\Final Codes\OCR Radon PCA 2\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\CreditsWindow.baml
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\CreditsWindow.g.cs
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\LoadingWindow.baml
+C:\Users\RITESH\Desktop\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\LoadingWindow.g.cs
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.exe
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.pdb
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.exe
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\bin\Debug\Vague2Vivid1.pdb
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\CreditsWindow.baml
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\LoadingWindow.baml
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.baml
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\CreditsWindow.g.cs
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\LoadingWindow.g.cs
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\MainWindow.g.cs
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\App.g.cs
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1_MarkupCompile.cache
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.g.resources
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\Vague2Vivid1.Properties.Resources.resources
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hamro Project\Major Projects Codes\Ultimate Final Folder  - OCR using Radon Transform and PCA\OCR Radon PCA 3\Vague2Vivid1\Vague2Vivid1\obj\x86\Debug\GenerateResource.write.1.tlog
